@@ -25,7 +25,7 @@
 </template>
 
 <script>
-import database from 'C:/Users/Shaun/bt3103-week-8/firebase.js'
+import database from 'C:/Users/Shaun/bt3103-week-8/src/firebase.js'
 import QuantityCounter from './QuantityCounter.vue'
 import Basket from './Basket.vue'
 
